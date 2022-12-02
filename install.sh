@@ -5438,9 +5438,7 @@ menu() {
 	showInstallStatus
 	echoContent red "\n=============================================================="
 	echoContent red "                        推广区                      "
-	echoContent green "AFF捐赠：https://github.com/panhuanghe/v2ray-agent/blob/master/documents/donation_aff.md\n"
-	echoContent green "虚拟币捐赠：0xB08b731653515b083deE362fefFc45d5eb96c35d\n"
-	echoContent green "推广可联系TG：https://t.me/mackaff"
+	echoContent green "AFF捐赠：免费脚本无需捐助"
 	echoContent red "=============================================================="
 	if [[ -n "${coreInstallType}" ]]; then
 		echoContent yellow "1.重新安装"
