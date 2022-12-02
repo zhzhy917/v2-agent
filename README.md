@@ -1,6 +1,4 @@
-# 原作者：mack-a
-# 原项目地址： https://github.com/mack-a/v2ray-agent
-原作者已删库，由本人重新发布
+原作者已删库，由本人重新编辑发布
 # v2ray-agent
 
 > [English Version](https://github.com/panhuanghe/v2ray-agent/blob/master/documents/en/README_EN.md)
@@ -47,20 +45,6 @@
 - Trojan+TCP+xtls-rprx-direct
 - Trojan+gRPC+TLS【支持CDN、IPv6、延迟低】
 - VMess+WS+TLS【支持CDN、IPv6】
-
-## 线路推荐
-
-- CN2 GIA
-- 上海CN2+HK
-- AS9929
-- AS4837
-- 联通日本软银
-- 联通+台湾TFN
-- 联通+NTT
-- 广移/珠移+HKIX/CMI/NTT
-- 广移/CN2+Cloudflare+全球
-- 广移/CN2/南联+香港AZ+全球
-- 中转+cloudflare+落地机【可拉全球】
 
 ## 注意事项
 
